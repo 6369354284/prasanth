@@ -1,7 +1,7 @@
 # prasanth
 
 
-  # Hi there, I'm Gokul Madhaiyan 👋
+  # Hi there, I'm Prasanth 👋
 
 ## 🎯 *Profession:* Data Analyst
 
